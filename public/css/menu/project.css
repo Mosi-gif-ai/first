@@ -1,0 +1,30 @@
+.open{
+    width: 40px;
+    height: 40px;
+    background-color: #2b2b2b;
+    position: absolute;
+    inset: 5px 0 0 5px;
+    cursor: pointer;
+}
+.close{
+    width: 200px;
+    height: 200px;
+    margin: 100px auto;
+    background-color: #2b2b2b;
+    position: relative;
+    div{
+        width: 30px;
+        height: 30px;
+        position: absolute;
+        right: 0;
+        top: 0;
+        background-color: crimson;
+        font-size: 50px;
+        text-align: center;
+        line-height: 30px;
+        color: whitesmoke;
+
+    }
+
+
+}
